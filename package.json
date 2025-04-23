@@ -1,27 +1,27 @@
 {
-  "name": "jsdoc-vujs-sfc",
-  "version": "0.0.1",
-  "description": "JSDoc plugin to document vuejs sfc files using <script setup> style.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JO-PH/jsdoc-vujs-sfc.git"
-  },
-  "keywords": [
-    "JSDoc",
-    "Vuejs",
-    "sfc",
-    "plugin",
-    "<script",
-    "setup>"
-  ],
-  "author": "Johann Philipp",
-  "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/JO-PH/jsdoc-vujs-sfc/issues"
-  },
-  "homepage": "https://github.com/JO-PH/jsdoc-vujs-sfc#readme"
+    "name": "jsdoc-vuejs-sfc",
+    "version": "0.0.1",
+    "description": "JSDoc plugin to document vuejs sfc files using <script setup> style.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JO-PH/jsdoc-vuejs-sfc.git"
+    },
+    "keywords": [
+        "JSDoc",
+        "Vuejs",
+        "sfc",
+        "plugin",
+        "<script",
+        "setup>"
+    ],
+    "author": "Johann Philipp",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/JO-PH/jsdoc-vuejs-sfc/issues"
+    },
+    "homepage": "https://github.com/JO-PH/jsdoc-vuejs-sfc#readme"
 }
