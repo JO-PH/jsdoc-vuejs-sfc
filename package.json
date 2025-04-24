@@ -1,6 +1,6 @@
 {
     "name": "jsdoc-vuejs-sfc",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "JSDoc plugin to document vuejs sfc files using <script setup> style.",
     "type": "module",
     "main": "index.js",
