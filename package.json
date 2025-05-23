@@ -1,11 +1,11 @@
 {
     "name": "jsdoc-vuejs-sfc",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "JSDoc plugin to document vuejs sfc files using <script setup> style.",
     "type": "module",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "jsdoc -c test/jsdoc.conf --verbose"
     },
     "repository": {
         "type": "git",
@@ -24,5 +24,8 @@
     "bugs": {
         "url": "https://github.com/JO-PH/jsdoc-vuejs-sfc/issues"
     },
-    "homepage": "https://github.com/JO-PH/jsdoc-vuejs-sfc#readme"
+    "homepage": "https://github.com/JO-PH/jsdoc-vuejs-sfc#readme",
+    "dependencies": {
+        "@vue/compiler-sfc": "^3.5.14"
+    }
 }
